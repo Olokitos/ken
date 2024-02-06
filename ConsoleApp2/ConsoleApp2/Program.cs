@@ -4,40 +4,48 @@ using System.Collections.Generic;
 namespace Activity2
 {
     public class Car
-    { 
-    public string Brand { get; set; }
-
+    {
+        public string Brand { get; set; }
         public string Color { get; set; }
-        public string Price { get; set; }
+        public int Price { get; set; }
     }
+
     public class Program
     {
         static void Main(string[] args)
         {
+            List<Car> list = new List<Car>();
+
             while (true)
             {
                 Console.WriteLine("Enter new data? Y/N");
-                if (Console.ReadLine().ToUpper() == "N") ;
+
+                if (Console.ReadLine().ToUpper() == "N")
                 {
                     break;
                 }
-                Car car1 = new List <Car>();
-                Console.WriteLine("Enter car Brand");
-                car1.Brand= Console.ReadLine();
-                Console.WriteLine("Enter car Color");
-                car1.Color= Console.ReadLine();
-                Console.WriteLine("Enter car Price");
-                car1.Price= Console.ReadLine();
-                List.Add(car1);
+                Car car1 = new Car();
+
+                Console.WriteLine("Enter Car Brand");
+                car1.Brand = Console.ReadLine();
+
+
+                Console.WriteLine("Enter Car Color");
+                car1.Color = Console.ReadLine();
+
+
+                Console.WriteLine("Enter Car Price");
+                car1.Price = int.Parse(Console.ReadLine());
+
+                list.Add(car1);
 
             }
-           List.foreach (var(x =>
+            list.ForEach(x =>
             {
                 Console.WriteLine(x.Brand);
                 Console.WriteLine(x.Color);
                 Console.WriteLine(x.Price);
-                Console.WriteLine("=====================");
-
+                Console.WriteLine("=======================");
             });
         }
     }
