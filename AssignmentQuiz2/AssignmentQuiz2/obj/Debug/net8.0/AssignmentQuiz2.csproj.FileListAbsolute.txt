@@ -1,0 +1,14 @@
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\bin\Debug\net8.0\AssignmentQuiz2.exe
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\bin\Debug\net8.0\AssignmentQuiz2.deps.json
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\bin\Debug\net8.0\AssignmentQuiz2.runtimeconfig.json
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\bin\Debug\net8.0\AssignmentQuiz2.dll
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\bin\Debug\net8.0\AssignmentQuiz2.pdb
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\AssignmentQuiz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\AssignmentQuiz2.AssemblyInfoInputs.cache
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\AssignmentQuiz2.AssemblyInfo.cs
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\AssignmentQuiz2.csproj.CoreCompileInputs.cache
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\AssignmentQuiz2.dll
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\refint\AssignmentQuiz2.dll
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\AssignmentQuiz2.pdb
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\AssignmentQuiz2.genruntimeconfig.cache
+D:\coding ni kentoy\AssignmentQuiz2\AssignmentQuiz2\obj\Debug\net8.0\ref\AssignmentQuiz2.dll

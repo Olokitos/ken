@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AssignmentQuiz2/1.0.0": {
+        "runtime": {
+          "AssignmentQuiz2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssignmentQuiz2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

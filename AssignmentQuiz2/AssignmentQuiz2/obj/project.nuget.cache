@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCKdVWqj9lETD4l3su0BJupJZM6MhY6i76QXGbph5E5+XOG/Q1Yh9WcCPT2yk/g+ivZ1CFuNnjOCB4yCvq6DAA==",
+  "success": true,
+  "projectFilePath": "D:\\coding ni kentoy\\AssignmentQuiz2\\AssignmentQuiz2\\AssignmentQuiz2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3-vulnerabilities/2024.02.15.23.23.24/vulnerability.base.json' timed out because no data was received for 60000ms."
+    }
+  ]
+}
